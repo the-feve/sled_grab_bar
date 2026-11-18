@@ -13,12 +13,12 @@ from cadquery import Vector as V
 P = dict(
     # --- main bar ---
     bar_od=22.2,          # 7/8" grip/clamp OD (ProTaper SE family is 7/8")
-    clamp_half=100.0,     # EST: half-length of flat clamp area (centre to start of bottom bend)
-    bottom_r=38.0,        # EST: bend radius, clamp area to riser
+    clamp_half=56.0,      # EST: half-length of flat clamp area (re-proportioned from photo + 8" handle span)
+    bottom_r=30.0,        # EST: bend radius, clamp area to riser
     rise=178.0,           # 7" rise, clamp CL to grip CL (published "7 in")
-    riser_top_x=165.0,    # EST: X of riser/upper-bend intersection (sets riser lean)
+    riser_top_x=150.0,    # EST: X of riser/upper-bend intersection (sets riser lean)
     upper_r=55.0,         # EST: bend radius, riser to grip section
-    grip_end_x=405.0,     # EST: half overall bar width (~32" overall)
+    grip_end_x=395.0,     # EST: half overall bar width (~32" overall)
     backsweep=35.0,       # EST: Y offset of bar end vs clamp area (toward rider)
     upsweep=12.0,         # EST: Z rise of bar end above the upper-bend vertex
     # --- grips / hooks ---
