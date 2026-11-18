@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="680" viewBox="0 0 680 440"><rect width="680" height="440" fill="#ffffff"/><defs><marker id="arrow" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse"><path d="M2 1L8 5L2 9" fill="none" stroke="#BA7517" stroke-width="1.5"/></marker></defs>
+<path d="M40 235 L40 212 Q40 205 47 205 L120 212 Q135 214 137 230 L158 388 Q160 400 172 400 L308 400 Q320 400 322 388 L343 230 Q345 214 360 212 L433 205 Q440 205 440 212 L440 235" fill="none" stroke="#888780" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+<line x1="152" y1="320" x2="328" y2="320" stroke="#888780" stroke-width="5" stroke-linecap="round"/>
+<rect x="141" y="308" width="16" height="24" rx="3" fill="#444441"/>
+<rect x="323" y="308" width="16" height="24" rx="3" fill="#444441"/>
+<path d="M170 316 Q240 40 310 316" fill="none" stroke="#993C1D" stroke-width="18" stroke-linecap="round"/>
+<path d="M170 316 Q240 40 310 316" fill="none" stroke="#F0997B" stroke-width="12" stroke-dasharray="3 5"/>
+<ellipse cx="170" cy="320" rx="7" ry="10" fill="none" stroke="#185FA5" stroke-width="3"/>
+<ellipse cx="310" cy="320" rx="7" ry="10" fill="none" stroke="#185FA5" stroke-width="3"/>
+<line x1="240" y1="166" x2="240" y2="112" stroke="#BA7517" stroke-width="2" marker-end="url(#arrow)"/>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="250" y="118">Your pull</text>
+<line stroke="#888" stroke-width="0.75" stroke-dasharray="3 3" x1="283" y1="212" x2="462" y2="150"/><circle cx="283" cy="212" r="2" fill="#666"/>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="154">King cobra braid</text>
+<line stroke="#888" stroke-width="0.75" stroke-dasharray="3 3" x1="296" y1="246" x2="462" y2="215"/><circle cx="296" cy="246" r="2" fill="#666"/>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="212">TPU arch core inside</text>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="228">(shape only, no load)</text>
+<line stroke="#888" stroke-width="0.75" stroke-dasharray="3 3" x1="316" y1="320" x2="462" y2="285"/><circle cx="316" cy="320" r="2" fill="#666"/>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="282">Girth hitch loop</text>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="298">sleeved, on brace</text>
+<line stroke="#888" stroke-width="0.75" stroke-dasharray="3 3" x1="339" y1="330" x2="462" y2="350"/><circle cx="339" cy="330" r="2" fill="#666"/>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="348">Brace clamp stops</text>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="364">outward slide</text>
+<line stroke="#888" stroke-width="0.75" stroke-dasharray="3 3" x1="240" y1="320" x2="462" y2="405"/><circle cx="240" cy="320" r="2" fill="#666"/>
+<text font-family="Helvetica, Arial, sans-serif" font-size="13" fill="#333" x="468" y="409">Cross brace</text>
+</svg>
